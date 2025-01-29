@@ -11,7 +11,7 @@ Hi, my name is Hotaa404
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hotaa404&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://github.com/hotaa404/hotaa/blob/output/github-snake.svg)
+![](https://github.com/hotaa404/hotaa/blob/output/github-snake-dark.svg)
 
 [![](https://visitcount.itsvg.in/api?id=Hotaa404&icon=7&color=12)](https://visitcount.itsvg.in)
 
